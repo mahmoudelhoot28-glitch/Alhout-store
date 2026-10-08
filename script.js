@@ -1,4 +1,4 @@
-const WHATSAPP="201000000000"; // غيّر الرقم إلى رقم واتساب المتجر بدون +
+const WHATSAPP="201023466292"; // غيّر الرقم إلى رقم واتساب المتجر بدون +
 const products=[
  {id:1,name:"Samsung Galaxy A25",price:12999,type:"new",icon:"📱",tag:"جديد"},
  {id:2,name:"iPhone 13",price:18500,type:"used",icon:"📱",tag:"مستعمل"},
